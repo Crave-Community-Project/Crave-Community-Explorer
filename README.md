@@ -1,1 +1,1 @@
-# Crave NextGen / Node.js Block Explorer
+# Crave Community / Node.js Block Explorer
